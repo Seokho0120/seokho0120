@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I am Seokho Lee
+Good day! I am Seokho Lee who is interested in Front-end Development and beautiful UI design from South Korea.
 
 <!--
 **Seokho0120/seokho0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
