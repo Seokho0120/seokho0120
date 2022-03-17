@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---
 
 
 
@@ -19,3 +19,5 @@ If you want to contact me, please leave me a mail!
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=black"/> 
 
 <img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=black"/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokho0120&count_bg=%232E57EC&title_bg=%23898989&icon=ghostery.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
