@@ -4,8 +4,8 @@
 
 Good day!
 
-I am a Front-end Developer from South Korea 🧑🏻‍💻.
-<br> I am interseted in beautiful UI design and communicating! If you want to contact me, please come here in my **Notion** and **Velog**!
+I am a Front-end Developer from South Korea 🧑🏻‍💻. I am interseted in beautiful UI design and communicating! 
+<br> If you want to contact me, please come here in my **Notion** and **Velog**!
 
 <a href="https://velog.io/@leesegho"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://auspicious-move-42f.notion.site/Hello-I-m-Seokho-830e5bda6d3445dba22945df18473aaf"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 
