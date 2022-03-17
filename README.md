@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## Hello, I'm Seokho!
-
+#### Hello, I'm Seokho!
 
 Good day! 
 
