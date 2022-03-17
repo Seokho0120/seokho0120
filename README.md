@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Good day! I am Seokho Lee who is interested in Front-end Development and beautiful UI design from South Korea.
+Good day! I am Seokho Lee who is interested in Front-end Development. I love beautiful UI design and communicating!
+
+If you want to contact me, please leave me a mail!
 
 <!--
 **Seokho0120/seokho0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
