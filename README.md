@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Good day! I am Seokho Lee
+
 <!--
 **Seokho0120/seokho0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
