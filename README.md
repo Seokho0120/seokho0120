@@ -12,7 +12,7 @@ I am a Front-end Developer from South Korea 🧑🏻‍💻. I am interseted in 
 **Language and Tools** 
 
 <img src="https://img.shields.io/badge/REACT-black?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=black"/> <img src="https://img.shields.io/badge/-STYLED_COMPONENTS-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-
+<br> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=2D0E0F"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=08212E"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=08212E"/> 
 
 ![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokho0120&theme=github_dark&show_icons=true)
 
