@@ -10,13 +10,6 @@
 
 제가 궁금하다면 **[Blog](https://river-dev.vercel.app/)** 에서 확인해주세요!
 
-### Experience✨
-• [Aladdin Global R&D Center](https://www.buyaladdinrnd.com/) | Frontend Developer (2022.07 - 2023.07)<br/>
-• [F&F](https://www.fnf.co.kr/pages/main/main.php) | Frontend Developer Intern(2022.01 - 2022.02)<br/>
-
-### Skills ✨
-• TypeScript | Next.js | React | React Native | Tailwindcss | Styled-components
-
 ![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokho0120&theme=github_dark&show_icons=true)
 
 
