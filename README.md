@@ -8,7 +8,6 @@
 • 주도적으로 개발하며 성장할 수 있는 환경을 지향합니다.<br/>
 • 함께 일하고 싶은 좋은 개발자가 되기 위해 노력하고 있습니다.🙃<br/>
 
-제가 궁금하다면 **[Blog](https://river-dev.vercel.app/)** 에서 확인해주세요!
 
 ![Seokho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokho0120&theme=github_dark&show_icons=true)
 
